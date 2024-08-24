@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mystic Tarot & Crystals</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mystic Tarot & Crystals</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <img src="images/hero-banner.jpg" alt="Mystical Tarot Reading">
+        <div class="hero-text">
+            <h2>Discover the Mystical World of Tarot and Crystals</h2>
+            <a href="services.html" class="btn">Book a Reading</a>
+            <a href="shop.html" class="btn">Explore Crystals</a>
+        </div>
+    </section>
+
+    <section id="welcome">
+        <h2>Welcome to Mystic Tarot & Crystals</h2>
+        <p>Your journey to spiritual enlightenment begins here. Explore our tarot reading services or discover the healing power of crystals.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mystic Tarot & Crystals. All rights reserved.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
